@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Carousel de imagens feito com Bootstrap</h2>
+<h2>Carrossel de imagens feito com Bootstrap</h2>
 <h2>Você pode acessar o projeto clicando aqui↓ </h2>
 <h2>https://luanaxcardoso.github.io/carousel-Bootstrap/ </h2>
 
