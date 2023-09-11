@@ -1,0 +1,22 @@
+.c-item{
+    height: 460px;
+    align-items: center;
+
+}
+
+.c-img{
+    height: 100%;
+    object-fit: cover;
+    
+}
+
+  .custom-underline {
+    position: relative;
+    display: inline-block;
+    padding-bottom: 4px;
+    padding-left: 15px;
+    padding-right: 5px;
+    border-radius: 15px;
+    letter-spacing: 18px;
+  }
+  
